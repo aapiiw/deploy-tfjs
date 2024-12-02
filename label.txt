@@ -1,0 +1,52 @@
+{"Predicted_Label": "Motif Barong", "Id_Provinsi": 1, "Id_Motif": 1}
+{"Predicted_Label": "Motif Merak", "Id_Provinsi": 2, "Id_Motif": 2}
+{"Predicted_Label": "Motif Ondel Ondel", "Id_Provinsi": 3, "Id_Motif": 3}
+{"Predicted_Label": "Motif Tumpal", "Id_Provinsi": 4, "Id_Motif": 4}
+{"Predicted_Label": "Motif Megamendung", "Id_Provinsi": 5, "Id_Motif": 5}
+{"Predicted_Label": "Motif Asem Arang", "Id_Provinsi": 6, "Id_Motif": 6}
+{"Predicted_Label": "Motif Asem Sinom", "Id_Provinsi": 7, "Id_Motif": 7}
+{"Predicted_Label": "Motif Asem Warak", "Id_Provinsi": 8, "Id_Motif": 8}
+{"Predicted_Label": "Motif Blekok", "Id_Provinsi": 9, "Id_Motif": 9}
+{"Predicted_Label": "Motif Blekok Warak", "Id_Provinsi": 10, "Id_Motif": 10}
+{"Predicted_Label": "Motif Cipratan", "Id_Provinsi": 11, "Id_Motif": 11}
+{"Predicted_Label": "Motif Gambang Semarangan", "Id_Provinsi": 12, "Id_Motif": 12}
+{"Predicted_Label": "Motif Ikan Kerang", "Id_Provinsi": 13, "Id_Motif": 13}
+{"Predicted_Label": "Motif Jagung Lombok", "Id_Provinsi": 14, "Id_Motif": 14}
+{"Predicted_Label": "Motif Jambu Belimbing", "Id_Provinsi": 15, "Id_Motif": 15}
+{"Predicted_Label": "Motif Jambu Citra", "Id_Provinsi": 16, "Id_Motif": 16}
+{"Predicted_Label": "Motif Jlamprang", "Id_Provinsi": 17, "Id_Motif": 17}
+{"Predicted_Label": "Motif Kembang Sepatu", "Id_Provinsi": 18, "Id_Motif": 18}
+{"Predicted_Label": "Motif Laut", "Id_Provinsi": 19, "Id_Motif": 19}
+{"Predicted_Label": "Motif Lurik Semangka", "Id_Provinsi": 20, "Id_Motif": 20}
+{"Predicted_Label": "Motif Masjid Agung Demak", "Id_Provinsi": 21, "Id_Motif": 21}
+{"Predicted_Label": "Motif Naga", "Id_Provinsi": 22, "Id_Motif": 22}
+{"Predicted_Label": "Motif Parang Kusumo", "Id_Provinsi": 23, "Id_Motif": 23}
+{"Predicted_Label": "Motif Parang Slobog", "Id_Provinsi": 24, "Id_Motif": 24}
+{"Predicted_Label": "Motif Semarangan", "Id_Provinsi": 25, "Id_Motif": 25}
+{"Predicted_Label": "Motif Sidoluhur", "Id_Provinsi": 26, "Id_Motif": 26}
+{"Predicted_Label": "Motif Tebu Bambu", "Id_Provinsi": 27, "Id_Motif": 27}
+{"Predicted_Label": "Motif Tembakau", "Id_Provinsi": 28, "Id_Motif": 28}
+{"Predicted_Label": "Motif Truntum", "Id_Provinsi": 29, "Id_Motif": 29}
+{"Predicted_Label": "Motif Tugu Muda", "Id_Provinsi": 30, "Id_Motif": 30}
+{"Predicted_Label": "Motif Warak Beras Utah", "Id_Provinsi": 31, "Id_Motif": 31}
+{"Predicted_Label": "Motif Yuyu", "Id_Provinsi": 32, "Id_Motif": 32}
+{"Predicted_Label": "Motif Gentongan", "Id_Provinsi": 33, "Id_Motif": 33}
+{"Predicted_Label": "Motif Pring", "Id_Provinsi": 34, "Id_Motif": 34}
+{"Predicted_Label": "Motif Insang", "Id_Provinsi": 35, "Id_Motif": 35}
+{"Predicted_Label": "Motif Dayak", "Id_Provinsi": 36, "Id_Motif": 36}
+{"Predicted_Label": "Motif Bledheg", "Id_Provinsi": 37, "Id_Motif": 37}
+{"Predicted_Label": "Motif Gajah", "Id_Provinsi": 38, "Id_Motif": 38}
+{"Predicted_Label": "Motif Kacang Hijau", "Id_Provinsi": 39, "Id_Motif": 39}
+{"Predicted_Label": "Motif Pala", "Id_Provinsi": 40, "Id_Motif": 40}
+{"Predicted_Label": "Motif Lumbung", "Id_Provinsi": 41, "Id_Motif": 41}
+{"Predicted_Label": "Motif Asmat", "Id_Provinsi": 42, "Id_Motif": 42}
+{"Predicted_Label": "Motif Cendrawasih", "Id_Provinsi": 43, "Id_Motif": 43}
+{"Predicted_Label": "Motif Tifa", "Id_Provinsi": 44, "Id_Motif": 44}
+{"Predicted_Label": "Motif Lontara", "Id_Provinsi": 45, "Id_Motif": 45}
+{"Predicted_Label": "Motif Rumah Minang", "Id_Provinsi": 46, "Id_Motif": 46}
+{"Predicted_Label": "Motif Boraspati", "Id_Provinsi": 47, "Id_Motif": 47}
+{"Predicted_Label": "Motif Pintu Aceh", "Id_Provinsi": 48, "Id_Motif": 48}
+{"Predicted_Label": "Motif Kawung", "Id_Provinsi": 49, "Id_Motif": 49}
+{"Predicted_Label": "Motif Parang Curigo", "Id_Provinsi": 50, "Id_Motif": 50}
+{"Predicted_Label": "Motif Parang Rusak", "Id_Provinsi": 51, "Id_Motif": 51}
+{"Predicted_Label": "Motif Parang Tuding", "Id_Provinsi": 52, "Id_Motif": 52}
